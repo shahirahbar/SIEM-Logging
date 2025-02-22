@@ -12,13 +12,13 @@ This stage includes important and security-related assets, and by having their l
 - Security tools:
   - [Firewall](https://github.com/shahirahbar/SIEM-Logging/tree/main/firewall%26WAF)
   - WAF
-  - Antivirus
+  - [Antivirus](https://github.com/shahirahbar/SIEM-Logging/tree/main/AV%26EDR)
   - EDR
 - Active directory
 - Publish applications (only OS)
 - Critical company services:
   - OS
-  - Service
+  - [Service](https://github.com/shahirahbar/SIEM-Logging/tree/main/Webservice)
   - DB
 
 The term **Critical Company Services** in this step refers to assets whose **CIA** is between 4 and 5.
@@ -29,11 +29,11 @@ If **Threat Modeling** has been done for the organization, priority should be gi
 
 The items in this stage should be logged within the first 2 months of setting up the SOC and are essential for the maturity of stage 1.
 
-- Network devices
+- [Network devices](https://github.com/shahirahbar/SIEM-Logging/tree/main/Switch%26Router)
 - All operation systems
 - High company services:
   - OS
-  - Service
+  - [Service](https://github.com/shahirahbar/SIEM-Logging/tree/main/Webservice)
   - DB
 
 The term **High Company Services** in this step refers to assets whose **CIA** is between 4 and 3.
