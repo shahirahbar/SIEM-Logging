@@ -21,9 +21,9 @@ This stage includes important and security-related assets, and by having their l
   - [Service](https://github.com/shahirahbar/SIEM-Logging/tree/main/Webservice)
   - DB
 
-The term **Critical Company Services** in this step refers to assets whose **CIA** is between 4 and 5.
+**note:** The term **Critical Company Services** in this step refers to assets whose **CIA** is between 4 and 5.
 
-If **Threat Modeling** has been done for the organization, priority should be given to the tools specified in the threat model.
+**note:** If **Threat Modeling** has been done for the organization, priority should be given to the tools specified in the threat model.
 
 ## Stage 2:
 
@@ -40,7 +40,7 @@ The term **High Company Services** in this step refers to assets whose **CIA** i
 
 ## Stage 3:
 
-This stage should also be completed by the end of the first 4 months of setup.
+**note:** This stage should also be completed by the end of the first 4 months of setup.
 
 - All databases
 - Network services
@@ -48,4 +48,4 @@ This stage should also be completed by the end of the first 4 months of setup.
   - OS
   - Service
 
-The term **Medium Company Services** in this step refers to assets whose **CIA** is less than 3.
+**note:** The term **Medium Company Services** in this step refers to assets whose **CIA** is less than 3.
