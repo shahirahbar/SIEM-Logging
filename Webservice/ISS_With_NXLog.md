@@ -20,7 +20,7 @@ Click **OK** to save the changes. At this point, the IIS log configuration is co
 To forward logs to the Log collector machine using NXLog, follow these steps:
 
 1. **Install NXLog**: Download and install the NXLog Community Edition (`nxlog-ce-2.10.2150`) using the default settings.
-2. **Replace Configuration File**: change the `nxlog.conf` file located at `C:\Program Files\nxlog\conf\nxlog.conf` with 
+2. **Replace Configuration File**: change the `nxlog.conf` file located at `C:\Program Files\nxlog\conf\nxlog.conf` with:
 ```
 define ROOT C:\Program Files\nxlog
 define LOGFILE %ROOT%\data\nxlog.log
