@@ -43,7 +43,7 @@ The term **High Company Services** in this step refers to assets whose **CIA** i
 **note:** This stage should also be completed by the end of the first 4 months of setup.
 
 - All databases
-- Network services
+- [Network services](https://github.com/shahirahbar/SIEM-Logging/tree/main/Network%20Services)
 - Medium company services:
   - OS
   - Service
